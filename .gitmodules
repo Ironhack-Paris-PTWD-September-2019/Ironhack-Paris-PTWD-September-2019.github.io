@@ -1,0 +1,3 @@
+[submodule "lab-yumyum"]
+	path = lab-yumyum
+	url = https://github.com/Ironhack-Paris-PTWD-September-2019/lab-yumyum.git
