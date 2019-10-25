@@ -4,3 +4,4 @@
 [submodule "lab-canvas-race-car"]
 	path = lab-canvas-race-car
 	url = https://github.com/Ironhack-Paris-PTWD-September-2019/lab-canvas-race-car.git
+	branch = solution
