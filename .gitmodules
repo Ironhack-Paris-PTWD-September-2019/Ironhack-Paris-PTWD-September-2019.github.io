@@ -8,3 +8,6 @@
 [submodule "canvas-codealong"]
 	path = canvas-codealong
 	url = https://github.com/Ironhack-Paris-PTWD-September-2019/canvas-codealong.git
+[submodule "lab-css-recipes-clone"]
+	path = lab-css-recipes-clone
+	url = https://github.com/Ironhack-Paris-PTWD-September-2019/lab-css-recipes-clone.git
