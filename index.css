@@ -1,0 +1,22 @@
+body {
+    font:400 100%/1.3 "Roboto", Helvetica, sans-serif;
+}
+
+ul.faces {
+    --w: 2.5em;
+
+    list-style:none; padding-left:0;
+
+    display:flex; flex-wrap:wrap;
+}
+
+.faces li {margin-right:.25em;}
+
+.faces img {width:var(--w);height:var(--w);object-fit:cover; border-radius:var(--w);}
+
+/* .faces a {display:inline-block; width:var(--w);}
+.faces a:after {
+    content:"" attr(title); font-size:50%;
+    display:block; 
+    word-break: break-all; text-align:center;
+} */
